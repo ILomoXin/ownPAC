@@ -1,4 +1,5 @@
 var domains = {
+  "github.com": 1,
   "jcenter.bintray.com": 1,
   "quora.com": 1,
   "xda-developers.com": 1,
