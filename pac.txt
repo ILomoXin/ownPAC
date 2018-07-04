@@ -1,4 +1,8 @@
 var domains = {
+  "google.gr": 1,
+  "tumblr.com": 1,
+  "userstyles.org": 1,
+  "github-production-release-asset-2e65be.s3.amazonaws.com": 1,
   "github.com": 1,
   "jcenter.bintray.com": 1,
   "quora.com": 1,
